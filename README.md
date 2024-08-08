@@ -1,10 +1,10 @@
-# Advent of Code
+# Advent of Code 🎄⭐
 
 [Advent of Code](https://adventofcode.com/) is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. 
 
 People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
 
-# My Advent of Code usage
+# My Advent of Code usage 👨‍💻
 
 I use Advent of Code to practice algorithms and problem solving.
 
@@ -19,6 +19,6 @@ Run the solution :
 go run main.go
 ```
 
-# Credits
+# Credits 📃
 
 You'll find the credits on the [official website](https://adventofcode.com/2023/about#:~:text=it%20something%20similar.-,%2D%2D%2D%20Credits%20%2D%2D%2D,-Puzzles%2C%20Code%2C%20%26%20Design).
