@@ -8,6 +8,10 @@ People use them as interview prep, company training, university coursework, prac
 
 I use Advent of Code to practice algorithms and problem solving.
 
+I try to not use ChatGPT or any AI that could solve the puzzle for me.
+
+The only use of AIs is to correct myself, improve my code and learn at the same time.
+
 # How to run the solutions
 
 To run the solutions, you'll need to install [Golang](https://go.dev/doc/install).
